@@ -1,0 +1,31 @@
+.fc-prev-button,
+.fc-next-button {
+    background-color: #3788d8 !important;
+    border-color: white !important;
+}
+
+.fc-today-button {
+    background-color: #3788d8 !important;
+    border-color: white !important;
+}
+
+.fc-button-group button {
+    background-color: #3788d8 !important;
+    border-color: white !important;
+}
+
+a.fc-event.fc-event-start.fc-event-end.fc-event-past.fc-daygrid-event.fc-daygrid-block-event.fc-h-event {
+    white-space: normal !important;
+}
+
+.fc-event-title fc-sticky {
+    cursor: pointer !important;
+}
+
+.fc-event .fc-details a {
+    font-size: 12px;
+    color: #ededed;
+    text-decoration: underline;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
